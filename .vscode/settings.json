@@ -1,0 +1,13 @@
+{
+    "python.venvPath": ".venv",
+    "python.autoComplete.extraPaths": [
+        ".venv/lib/python3.9/site-packages",
+    ],
+    "python.pythonPath": "C:\\Users\\EINOSUKEIIDA\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+}
